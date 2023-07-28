@@ -13,7 +13,7 @@ Full-stack web developer | Python | Golang | Javascript | HTML | CSS | Jquery | 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pkshahid&theme=dark&hide_border=true&include_all_commits=true&count_private=true) 
-![](https://github-readme-streak-stats.herokuapp.com/?user=pkshahid&theme=dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pkshahid&theme=dark&hide_border=true) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pkshahid&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
