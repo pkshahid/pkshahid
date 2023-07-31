@@ -17,7 +17,6 @@ Full-stack web developer | Python | Golang | Javascript | HTML | CSS | Jquery | 
 # 💫 Expolre
 <a href="https://app.daily.dev/shahidpk"><img src="https://api.daily.dev/devcards/b44a60a33bac49748b126a20cf59a4fc.png?r=60j" width="400" alt="Mohammed Shahid's Dev Card"/></a>
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## 🌐 Socials:
