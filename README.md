@@ -11,13 +11,12 @@ Full-stack web developer | Python | Golang | Javascript | HTML | CSS | Jquery | 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pkshahid&theme=dark&hide_border=true) 
 ![](https://github-readme-stats.vercel.app/api?username=pkshahid&theme=dark&hide_border=true&include_all_commits=true&count_private=true) 
 
-### 🔝 Top Contributed Repo
+### 💫 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pkshahid&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
-# 💫 Expolre
+# 🌐 Expolre
 <a href="https://app.daily.dev/shahidpk"><img src="https://api.daily.dev/devcards/b44a60a33bac49748b126a20cf59a4fc.png?r=60j" width="400" alt="Mohammed Shahid's Dev Card"/></a>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instawithshahid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-shahid-8456b218b) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shahid) 
