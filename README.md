@@ -1,5 +1,5 @@
 # About Me:
-Full-stack web developer | Python | Golang | Javascript | HTML | CSS | Jquery | AJAX | Django | PostgreSQL | Docker | Git | AWS | Bash | Linux
+Full-stack Web Developer | Python | Golang | Javascript | HTML | CSS | Jquery | AJAX | Django | PostgreSQL | Docker | Git | AWS | Bash | Linux
 ---
 [![](https://visitcount.itsvg.in/api?id=pkshahid&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
