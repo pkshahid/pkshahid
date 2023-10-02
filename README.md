@@ -11,7 +11,7 @@ Full-stack Web Developer | Python | Golang | Javascript | HTML | CSS | Jquery | 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pkshahid&theme=dark&hide_border=true) 
 ![](https://github-readme-stats.vercel.app/api?username=pkshahid&theme=dark&hide_border=true&include_all_commits=true&count_private=true) 
 
-### 💫 Top Contributed Repo
+### 💫 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=pkshahid&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 # 🌐 Expolre
